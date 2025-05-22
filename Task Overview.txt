@@ -1,0 +1,44 @@
+Brazilian E-commerce Dataset 
+Link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+Industry: Retail 
+
+Working: 
+1. Downloading Data from Kaggle using Kaggle API
+2. Clean the Data and also Translate it into English
+3. Store the Data in PostgreSQL
+4. Data Exploration in SQL (Solve some Basic, Intermediate, Advance Level Questions)
+5. Data Analysis using Python (Order Analysis, Product Analysis,Payment Analysis, Customer Analysis, Reviews Analysis, Sellers Analysis, RFM and Market basket if possible)
+6. Dashboard using Power BI
+
+
+Business Problems
+The goal of this project is to explore and analyze Brazilian e-commerce data to answer key business questions and support data-driven decision-making in the retail industry. Specifically, this project addresses the following business problems:
+1. Customer Behavior
+    Who are the most valuable customers?
+    What is the customer repeat rate and churn risk?
+    What are the top customer locations?
+
+2. Order and Delivery Performance
+    How long does it take to deliver orders?
+    Are there delays between estimated and actual delivery dates?
+    Which regions face the most delivery issues?
+
+3. Product Performance
+    What are the most and least popular product categories?
+    What types of products generate the most revenue?
+
+4. Payment Trends
+    Which payment methods are most preferred?
+    Is there a link between payment type and order value?
+
+5. Review Analysis
+    What factors influence customer satisfaction?
+    Which products or sellers receive the most complaints?
+
+6. Seller Insights
+    Which sellers perform the best in terms of volume, geography, and customer satisfaction?
+    How is seller distribution affecting logistics?
+
+7. Market Segmentation & Basket Analysis (Advanced)
+    Can we segment customers for targeted marketing (e.g., via RFM analysis)?
+    What product combinations are commonly bought together (market basket analysis)?
