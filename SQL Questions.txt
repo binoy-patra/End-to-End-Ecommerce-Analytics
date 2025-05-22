@@ -1,0 +1,35 @@
+Basic Level:
+1. How many orders were placed?
+2. How many unique products are in the dataset?
+3. What are the top 5 most common product categories?
+4. What is the distribution of orders across different cities?
+5. How many unique customers are there?
+6. What is the most frequent product category?
+7. What is the average number of items per order?
+8. What is the distribution of order statuses?
+9. Which city has the highest number of orders?
+10. What is the total number of orders delivered on time?
+
+Intermediate Level:
+1. What is the average order value (AOV) by product category?
+2. Which customers have placed the highest number of orders?
+3. What is the average delivery time for orders by city?
+4. What is the most frequent payment method used by customers?
+5. What is the total revenue for each seller?
+6. How many products have no reviews?
+7. What is the average review score for products?
+8. Which seller has the highest sales volume (in terms of revenue)?
+9. What is the distribution of reviews across different review scores?
+10. What is the average price of products in each city?
+
+Advanced Level:
+1. What is the correlation between the order value and the shipping cost?
+2. What is the impact of product reviews on sales?
+3. What are the trends in the order status over time (e.g., delayed, canceled, completed)?
+4. How can we segment customers based on their purchase behavior (e.g., frequency, monetary value)?
+5. Can we detect seasonality in the sales data?
+6. What factors contribute most to order delays?
+7. What is the customer lifetime value (CLV) of the top 10% of customers?
+8. What is the churn rate of customers in the past year?
+9. What is the average shipping time by product category?
+10. Can we predict the likelihood of an order being canceled based on its attributes?
